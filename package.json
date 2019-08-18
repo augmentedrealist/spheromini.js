@@ -1,0 +1,17 @@
+{
+  "name": "spheromini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "noble": "^1.9.1",
+    "noble-promise": "^1.9.2"
+  }
+}
