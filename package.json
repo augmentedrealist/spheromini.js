@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.3",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "noble": "^1.9.1",
     "noble-promise": "^1.9.2"
   }
